@@ -1,0 +1,1 @@
+This is a simple HTML project in which I have created a web resume. It includes details like Summary, education, work experience and other details.
